@@ -1,0 +1,1 @@
+For launch the game go in terminal open the folder, open the mini game folder and write node game-name.js
