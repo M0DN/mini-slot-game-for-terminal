@@ -1,1 +1,5 @@
-For launch the game go in terminal open the folder, open the mini game folder and write node game-name.js
+**FOR THE INSTALLATION**
+  Download the folder,
+  open the folder on terminal,
+  required node.js
+  for run the minigame: node mini-game-name.js
